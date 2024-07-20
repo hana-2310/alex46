@@ -32,7 +32,7 @@ int main()
    insertQueue  (9);
    insertQueue(7);
    insertQueue (4);
-    insertQueue(0);
+    insertQueue(10);
     insertQueue(2);
     pPointer=pFirst;
     while(pPointer !=NULL){
